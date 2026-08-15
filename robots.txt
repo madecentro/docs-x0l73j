@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-c0sgkw.salamcuan.sbs/sitemap.xml
